@@ -12,3 +12,5 @@ O dashboard deve ter uma tabela com o nome “Medidas” para armazenar os cálc
 Deverá ser utilizada no mínimo 5 tipos de elementos visuais. 
 Este relatório deverá ter um tipo e uma imagem logotipo.
 As medidas anteriores devem ser utilizadas.
+
+Link do dashboard: http://encurtador.com.br/irIRS
